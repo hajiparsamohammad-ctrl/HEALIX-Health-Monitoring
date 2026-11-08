@@ -91,3 +91,103 @@ HEALIX تلاشی برای پیوند فناوری با یکی از مهم‌ت�
 **HEALIX — فناوری، برای مراقبت از زندگی.**
 
 </div>
+
+---
+
+<div dir="ltr" align="left">
+
+# 💙 HEALIX | Smart Health Monitoring System
+### An Intelligent Wearable Solution for Elderly Care
+
+<p align="center">
+  <strong>Technology, Designed to Care for Life.</strong>
+</p>
+
+---
+
+## 🌐 About the Project
+
+**HEALIX** is an intelligent healthcare monitoring system based on the Internet of Things (IoT) and Artificial Intelligence (AI), developed to support elderly care and improve personal safety.
+
+The system collects health data such as **heart rate and body temperature**, making it accessible through a dedicated mobile application, an online dashboard, and a Telegram bot.
+
+By combining smart hardware, software, and communication technologies, HEALIX aims to simplify health monitoring and provide notifications when abnormal conditions are detected.
+
+## 🎯 Project Objectives
+
+The primary objective of HEALIX is to develop an intelligent solution that supports elderly care and reduces the time between detecting an abnormal condition and notifying caregivers.
+
+The project focuses on continuous health monitoring, data visualization, and multiple communication channels to create an integrated experience across wearable hardware, mobile applications, and online services.
+
+## ✨ Key Features
+
+- ❤️ Heart rate measurement and monitoring
+- 🌡️ Body temperature measurement
+- 📱 Dedicated mobile application
+- 📊 Online dashboard for health data visualization
+- 🤖 Telegram bot for reports and notifications
+- 🔔 Notifications when abnormal values are detected
+- 🧠 AI-powered intelligent features
+- 🌐 IoT-based communication between system components
+
+## 🚀 Explore HEALIX
+
+Access the different components of the project through the links below.
+
+### 🧪 Sensor Simulation
+
+Explore the temperature and heart rate monitoring implementation:
+
+[🔗 Open Wokwi Simulation](https://wokwi.com/projects/470249110752655361)
+
+### 🤖 HEALIX Guardian Bot
+
+Access the dedicated Telegram bot to receive health reports and system notifications:
+
+[🔗 Open Telegram Bot](https://t.me/Kiboard_2bot)
+
+### 📲 Mobile Application
+
+Download the dedicated HEALIX mobile application:
+
+[⬇️ Download HEALIX App](https://drive.google.com/file/d/12RxUsiFyTHdWL9iskCuNNjxPi1JDw-qD/view?usp=sharing)
+
+### 📊 Online Health Dashboard
+
+View health data and monitoring charts through the online dashboard:
+
+[🔗 Open HEALIX Dashboard](https://console.thinger.io/dashboards/kibord)
+
+> 🔐 Note: Dashboard access may require authorized permissions. Private authorization tokens are not included in this repository.
+
+## 🧩 Repository Structure
+
+This repository contains selected components of HEALIX that are suitable for public release, including source code related to body temperature and heart rate measurement.
+
+The source code, trained models, training datasets, and internal implementation details of proprietary AI and fall detection components are not included in this repository.
+
+## 🔐 AI Source Code Availability
+
+We apologize that the complete source code of HEALIX cannot be made publicly available.
+
+The AI component of HEALIX includes proprietary implementations, internal structures, and specialized capabilities. To protect the confidentiality and technical ownership of this component, its source code, trained models, and associated datasets cannot be publicly shared.
+
+However, we have made the publicly shareable components, system demonstrations, and access links to the mobile application, dashboard, and Telegram bot available through this repository.
+
+## 🛠️ Technologies Used
+
+- 🌐 Internet of Things (IoT)
+- ⚙️ Embedded Systems
+- ❤️ Health Monitoring Sensors
+- 🧠 Artificial Intelligence and Data Processing
+- 📱 Mobile Application Development
+- 📊 Online Dashboards and Data Visualization
+- 🤖 Telegram Bot Integration
+
+## 💙 Final Words
+
+HEALIX is an effort to connect technology with one of humanity's most important needs: protecting health and improving quality of life.
+
+**HEALIX — Technology, Designed to Care for Life.**
+
+</div>
